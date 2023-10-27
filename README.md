@@ -5,7 +5,7 @@ This program provides estimations within acceptable bounds based on historical d
 
 To install the Parametric Estimator Software on your Windows system, follow these simple steps:
 
-1. Download the Parametric Estimator Installer.
+1. Download the Parametric Estimator Installer here: https://drive.google.com/file/d/1cObNhAdvbISo1ZzWi6xT2Lzcdowayzim/view?usp=sharing
 
 2. Once the installer is downloaded, double-click on the downloaded file to run it.
 
